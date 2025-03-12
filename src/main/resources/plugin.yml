@@ -1,0 +1,7 @@
+name: NoDeathAnimation
+version: '1.0.0'
+main: dev.zoid.noDeathAnimation.NoDeathAnimation
+api-version: '1.21'
+description: Packet based solution to remove death animation
+author: Zoid
+website: github.com
